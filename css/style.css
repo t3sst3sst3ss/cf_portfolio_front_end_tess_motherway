@@ -47,13 +47,20 @@ a {
   color: #ffffff;
   text-decoration: none; /* No underlining */
 }
-a:hover {
-  color: #545252;
-  text-decoration: underline; /* Underlining when hovering over a link */
-}
-  a:visited   { /* visited link */
-    color: #8a50ff;
+  a:visited   { 
+  color: #8a50ff; /* visited link */
   }
-  a:active {/* selected link */
-    color: #303999;
+
+  a:hover {
+    color: #545252;
+    text-decoration: underline; /* Underlining when hovering over a link */
+  }  
+  
+  a:focus {
+    color: #cc6540;
+    text-decoration: underline;
+  }
+
+  a:active { 
+    color: #303999; /* selected link */
   }
