@@ -1,6 +1,6 @@
 /*
-Primary Colour (White): #FFFFFF;
-Secondary Colour (Grey): #545252;
+Primary Color (White): #FFFFFF;
+Secondary Color (Grey): #545252;
 SN Blue: #014263;
 OpenMined Black: #000000;
 Trove Black: #0D0D0D;
@@ -42,3 +42,18 @@ h4 {
 img {
   width: 100%;
 }
+
+a {
+  color: #ffffff;
+  text-decoration: none; /* No underlining */
+}
+a:hover {
+  color: #545252;
+  text-decoration: underline; /* Underlining when hovering over a link */
+}
+  a:visited   { /* visited link */
+    color: #8a50ff;
+  }
+  a:active {/* selected link */
+    color: #303999;
+  }
