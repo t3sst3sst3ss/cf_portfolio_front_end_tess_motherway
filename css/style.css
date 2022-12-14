@@ -8,6 +8,10 @@ Trove White: #FAFAFA;
 Trove Pink: #F75570;
 */
 
+header {
+  background-color: #e1dfe0;
+}
+
 body {
   background-color: #ffffff;
   font-family: 'Poppins', sans-serif;
