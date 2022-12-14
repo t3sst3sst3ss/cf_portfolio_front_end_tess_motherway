@@ -12,6 +12,11 @@ header {
   background-color: #e1dfe0;
 }
 
+header {
+  background-color: #e1dfe0;
+  padding: 10px;
+}
+
 body {
   background-color: #ffffff;
   font-family: 'Poppins', sans-serif;
