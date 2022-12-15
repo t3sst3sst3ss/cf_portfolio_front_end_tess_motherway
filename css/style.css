@@ -33,6 +33,10 @@ body {
   color: #545252;
 }
 
+main {
+  padding-top: 133px;
+}
+
 #hero {
   background-color: #e1dfe0;
   padding: 20px 0;
