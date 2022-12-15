@@ -195,3 +195,9 @@ nav > ul > li > a:hover {
 nav > ul > li > a:active {
   color: #303999; /* selected link */
 }
+
+p {
+
+  text-align: center;
+
+}
