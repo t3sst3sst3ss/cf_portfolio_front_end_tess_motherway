@@ -15,7 +15,7 @@ header {
   margin: 10px;
   border-bottom: 3px solid #4a4a4a;
   text-align: center;
-  box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75); position: relative;
+  box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75); position: fixed;
 }
 
 
