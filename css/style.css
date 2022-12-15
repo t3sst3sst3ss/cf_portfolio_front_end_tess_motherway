@@ -154,3 +154,16 @@ nav > ul > li > a {
   font-weight: 700;
   color: #4a4a4a;
 }
+
+nav > ul > li > a:visited {
+  color: #c919dd; /* visited link */
+}
+
+nav > ul > li > a:hover {
+  color: #545252;
+  text-decoration: underline; /* Underlining when hovering over a link */
+}
+
+nav > ul > li > a:active {
+  color: #303999; /* selected link */
+}
