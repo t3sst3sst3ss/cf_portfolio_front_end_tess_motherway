@@ -230,6 +230,11 @@ Medium devices (640px and larger)
     padding: 20px 0 13px;
   }
 
+  .container {
+    align-items: left;
+
+  }
+
   nav {
     width: auto;
     float: right;
@@ -243,11 +248,6 @@ Medium devices (640px and larger)
 
   .col-md-6 {
     width: 50%;
-  }
-
-  .container {
-    align-items: left;
-
   }
 
   [class*="col-"] {
