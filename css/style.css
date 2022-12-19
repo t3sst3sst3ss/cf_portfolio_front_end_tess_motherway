@@ -256,7 +256,10 @@ Medium devices (640px and larger)
     width: 50%;
   }
 
-  
+  [class*="col-"] {
+    float: left;
+  }
+
 
 }
 
