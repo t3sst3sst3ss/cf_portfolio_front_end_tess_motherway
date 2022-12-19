@@ -236,7 +236,6 @@ Medium devices (640px and larger)
     margin-top: 4px;
   }
 
-
   body {
   font-size: 18px;
   
@@ -244,6 +243,11 @@ Medium devices (640px and larger)
 
   .col-md-6 {
     width: 50%;
+  }
+
+  .container {
+    align-items: left;
+
   }
 
   [class*="col-"] {
