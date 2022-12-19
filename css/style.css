@@ -70,6 +70,12 @@ img {
   width: 100%;
 }
 
+img.logo{
+
+  align-items: center;
+
+}
+
 a {
   color: #545252;
   text-decoration: none; /* No underlining */
