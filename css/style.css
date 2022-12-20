@@ -117,7 +117,7 @@ a:active {
     font-weight: 400;
     padding: 10px;
     border-radius: 3px; 
-    border-bottom: 2px solid #545252; /* width of the border, type, color */
+    border: 2px solid #545252; /* width of the border, type, color */
     transition: 0.2s opacity;
   
   }
