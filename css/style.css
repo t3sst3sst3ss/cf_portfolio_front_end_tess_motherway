@@ -89,6 +89,13 @@ text-align: center;
 }
 
 
+picture {
+
+flex: auto;
+height: auto;
+
+}  
+
 a {
   color: #545252;
   text-decoration: none; /* No underlining */
