@@ -115,11 +115,12 @@ a:active {
     background-color: #ffffff;
     color: #ffffff; /* needed to override the default link color - text colour */
     font-weight: 400;
+    text-decoration: none;
     padding: 10px;
     border-radius: 3px; 
     border: 2px solid #545252; /* width of the border, type, color */
     transition: 0.2s opacity;
-  
+    transition-property: opacity;
   }
 
 .button:hover {
