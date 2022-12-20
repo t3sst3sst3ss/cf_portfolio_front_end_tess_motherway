@@ -185,8 +185,13 @@ padding-bottom: 25px; border-bottom: 1px solid #4a4a4a;
   display: block;
 }
 
+header .container {
+  display: flex;
+  justify-content: space-between;
+}
+
 .logo {
-  max-width: 250px;
+  max-width: 100px;
 }
 
 nav > ul {
