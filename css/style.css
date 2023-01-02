@@ -308,6 +308,13 @@ Medium devices (640px and larger)
     margin-top: 4px;
   }
 
+  .navtoggle li .icon {
+    position: absolute;
+    right: 0;
+    top: 2px;
+    font-size: 20px;
+  }
+
   body {
   font-size: 18px;
   
