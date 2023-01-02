@@ -80,8 +80,12 @@ img.logo {
   max-width: 150px;
 }
 
+footer {
+background-color: aqua;
+
+}
+
 footer img {
-  background-color: aqua;
   max-width: 25px;
 }
 
