@@ -203,7 +203,7 @@ header .container {
 
 nav > ul {
   list-style-type: none;
-  padding: 0;
+  padding: 20px;
 }
 
 nav > ul > li {
