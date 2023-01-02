@@ -213,7 +213,7 @@ nav > ul {
 }
 
 nav > ul > li {
-  display: inline;
+  display: inline-block;
   width: 100%;
   padding; 0px
 }
