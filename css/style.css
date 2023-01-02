@@ -238,6 +238,10 @@ nav > ul > li > a:active {
   color: #303999; /* selected link */
 }
 
+.navtoggle li:not(:last-child) {
+  display: none;
+}
+
 .contact {
   text-align: center;
 }
