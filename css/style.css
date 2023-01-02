@@ -285,6 +285,10 @@ Medium devices (640px and larger)
     padding: 20px 0 13px;
   }
 
+  .navtoggle li:not(:last-child) {
+    display: inline-block;
+  }  
+
   .container {
     align-items: left;
 
