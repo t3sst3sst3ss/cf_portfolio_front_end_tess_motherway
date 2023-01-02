@@ -207,8 +207,9 @@ nav > ul {
 }
 
 nav > ul > li {
-  display: inline-block;
+  display: none;
   width: 100%;
+  padding; 20px
 }
 
 nav > ul > li > a {
