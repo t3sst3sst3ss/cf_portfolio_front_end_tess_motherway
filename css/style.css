@@ -75,7 +75,7 @@ img {
 }
 
 img.logo {
-  align-items: center; inset-inline;
+  align-items: center;
   max-width: 100px;
 }
 
@@ -308,7 +308,7 @@ Medium devices (640px and larger)
   nav > ul > li {
     display: inline-block;
     width: 100%;
-    padding; 0px
+    padding: 0px
   }
 
   .navtoggle li:not(:last-child) {
