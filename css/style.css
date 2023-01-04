@@ -208,7 +208,8 @@ header .container {
 
 nav > ul {
   list-style-type: none;
-  padding: 10px;
+  padding: 0;
+  margin: 0;
 }
 
 nav > ul > li > a {
@@ -294,6 +295,10 @@ Medium devices (640px and larger)
   header {
     text-align: unset;
     padding: 20px 0 13px;
+  }
+
+  nav > ul {
+    margin: 1em 0;
   }
 
   nav > ul > li {
