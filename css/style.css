@@ -232,8 +232,13 @@ nav > ul > li > a:active {
   color: #303999; /* selected link */
 }
 
+.navtoggle.responsive nav {
+  padding: 24px 0 0;
+}
+
 .navtoggle li:not(:last-child) {
   display: none;
+  padding: 0 0 10px;
 }
 
 .navtoggle, .navtoggle.responsive {
@@ -242,6 +247,8 @@ nav > ul > li > a:active {
 
 .navtoggle.responsive li  {
   display: block;
+  padding: 10px 0;
+  border-top: 1px solid rgba(255,127,80,0.5);
 }
 
 .navtoggle li .icon {
