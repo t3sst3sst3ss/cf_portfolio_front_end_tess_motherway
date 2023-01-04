@@ -242,6 +242,10 @@ nav > ul > li > a:active {
   display: none;
 }
 
+.navtoggle, .navtoggle.responsive {
+  position: relative;
+}
+
 svg {
 
   width: 20px;
