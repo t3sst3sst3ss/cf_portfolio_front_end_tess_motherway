@@ -242,6 +242,12 @@ nav > ul > li > a:active {
   display: none;
 }
 
+svg {
+
+  width: 20px;
+  height: 20px;
+}
+
 .contact {
   text-align: center;
 }
