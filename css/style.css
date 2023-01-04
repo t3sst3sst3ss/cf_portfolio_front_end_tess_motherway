@@ -304,10 +304,6 @@ Medium devices (640px and larger)
 
   .navtoggle li:not(:last-child) {
     display: inline-block;
-  }  
-
-  .navtoggle li:last-child {
-    display: none;
   }
 
   .navtoggle li .icon {
@@ -321,6 +317,10 @@ Medium devices (640px and larger)
     position: relative;
   }
 
+  .navtoggle li:last-child {
+    display: none;
+  }
+  
   .container {
     align-items: left;
 
