@@ -239,7 +239,6 @@ nav > ul > li > a:active {
   position: relative;
 }
 
-
 .navtoggle li .icon {
   position: absolute;
   right: 0;
@@ -320,7 +319,7 @@ Medium devices (640px and larger)
   .navtoggle li:last-child {
     display: none;
   }
-  
+
   .container {
     align-items: left;
 
