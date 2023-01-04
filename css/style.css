@@ -246,6 +246,15 @@ nav > ul > li > a:active {
   position: relative;
 }
 
+
+.navtoggle li .icon {
+  position: absolute;
+  right: 0;
+  top: 2px;
+  font-size: 20px;
+}
+
+
 svg {
 
   width: 20px;
@@ -301,6 +310,13 @@ Medium devices (640px and larger)
 
   .navtoggle li:last-child {
     display: none;
+  }
+
+  .navtoggle li .icon {
+    position: absolute;
+    right: 0;
+    top: 2px;
+    font-size: 20px;
   }
 
   .navtoggle, .navtoggle.responsive {
