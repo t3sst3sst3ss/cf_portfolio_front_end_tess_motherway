@@ -240,6 +240,10 @@ nav > ul > li > a:active {
   position: relative;
 }
 
+.navtoggle.responsive li  {
+  display: block;
+}
+
 .navtoggle li .icon {
   position: absolute;
   right: 0;
