@@ -31,7 +31,7 @@ body {
 }
 
 main {
-  padding-top: 79.38px;
+  padding-top: 133px;
 }
 
 #hero {
@@ -243,6 +243,9 @@ nav > ul > li > a:active {
 
 .navtoggle, .navtoggle.responsive {
   position: relative;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
 }
 
 .navtoggle.responsive li  {
@@ -257,12 +260,6 @@ nav > ul > li > a:active {
   top: 2px;
   font-size: 20px;
   padding-right: 0;
-}
-
-svg {
-
-  width: 20px;
-  height: 20px;
 }
 
 .contact {
@@ -310,6 +307,7 @@ Medium devices (640px and larger)
 
   nav > ul {
     margin: 1em 0;
+    display: flex;
   }
 
   nav > ul > li {
