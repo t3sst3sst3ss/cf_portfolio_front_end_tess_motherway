@@ -301,7 +301,9 @@ Medium devices (640px and larger)
 @media only screen and (min-width: 641px) {
 
   img {
-    width: 100%;
+    width: 600px;
+    height: 400px;
+  
   }
 
   header {
